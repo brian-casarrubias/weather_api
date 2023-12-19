@@ -24,11 +24,11 @@
 .weather-card {
     max-width: 20rem;
     margin: 20px;
-    transition: transform 0.3s; /* Add this line for smooth transition */
+    transition: transform 0.3s; 
 }
 
 .weather-card:hover {
-    transform: scale(1.07); /* Increase the scale value to make it appear bigger */
+    transform: scale(1.07); 
 }
 .weather-image {
     width: 100%;
